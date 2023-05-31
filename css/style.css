@@ -1,0 +1,22 @@
+
+
+.start-link > a {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.list-links ul li {
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.list-links ul li > a {
+    color: white;
+    text-decoration: none;
+}
+    
+   
+    
