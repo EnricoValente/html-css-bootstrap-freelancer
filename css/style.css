@@ -8,29 +8,6 @@ img {
 }
 
 
-.start-link > a {
-    color: white;
-    text-decoration: none;
-
-}
-
-
-.list-links ul li {
-    list-style: none;
-    display: inline-block;
-    
-}
-
-.list-links ul li > a {
-    color: white;
-    text-decoration: none;
-    font-size: .625rem;
-}
-    
-i {
-    color: white;
-}   
- 
 .img-box {
     width: 50%;
     margin: auto;
@@ -47,8 +24,14 @@ h1 {
 
 h2 {
     text-align: center;
+    padding-top: 1.25rem;
 }
 
 .big-img > img {
     border-radius: .625rem;
+}
+
+.smaller-box {
+   width:80%;
+   margin: 0 auto; 
 }
