@@ -1,5 +1,13 @@
 
 
+/* GENERAL */
+
+img {
+    width: 100%;
+    display: block;
+}
+
+
 .start-link > a {
     color: white;
     text-decoration: none;
@@ -22,4 +30,25 @@
 i {
     color: white;
 }   
-    
+ 
+.img-box {
+    width: 50%;
+    margin: auto;
+}
+
+
+
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.big-img > img {
+    border-radius: .625rem;
+}
