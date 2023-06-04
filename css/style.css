@@ -7,9 +7,9 @@ img {
     display: block;
 }
 
-
+/* SECTION 1 */
 .img-box {
-    width: 50%;
+    width: 30%;
     margin: auto;
 }
 
@@ -21,6 +21,7 @@ h1 {
     text-align: center;
 }
 
+/* SECTION 2 */
 
 h2 {
     text-align: center;
@@ -31,7 +32,17 @@ h2 {
     border-radius: .625rem;
 }
 
+/* SECTION 3 */
 .smaller-box {
    width:80%;
    margin: 0 auto; 
+}
+
+/* FOOTER */
+.dark-blue {
+    background-color: darkblue;
+}
+
+.footer-size {
+    font-size: .625rem;
 }
